@@ -15,6 +15,8 @@ public class TP3_Laboratorio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        LoginVentana ventana = new LoginVentana();
+        ventana.setVisible(true);
     }
     
 }
